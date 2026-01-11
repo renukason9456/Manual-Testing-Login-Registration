@@ -7,7 +7,8 @@ This project focuses on **manual testing** of the Login and Registration module 
 The goal is to ensure the functionality, validation, and reliability of user authentication features.
 
 ## Application Under Test
-[Automation Exercise](https://automationexercise.com)  
+This project was executed on a publicly available demo website for practicing manual testing:  
+[Automation Exercise](https://automationexercise.com)
 
 > You can replace this with any other demo website if you test on a different site.
 
